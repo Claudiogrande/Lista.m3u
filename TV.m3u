@@ -1,0 +1,530 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A&E"  group-title="Unsorted",A&E
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/37130.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A&E"  group-title="Unsorted",A&E
+http://cdn.connectbr.com.br/AE/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A&E"  group-title="Unsorted",A&E
+http://186.237.99.202:8000/play/AeE/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A&E FULL HD"  group-title="Unsorted",A&E FULL HD
+http://45.58.126.146:14293
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A&E FULL HD"  group-title="Unsorted",A&E FULL HD
+http://199.127.60.83:16002/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A&E HD"  group-title="Unsorted",A&E HD
+http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A&E SD"  group-title="Unsorted",A&E SD
+https://list.iptvcat.com/my_list/s/852e467f575a83154dc562f25bd34b72.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AGRO BRASIL HD"  group-title="Unsorted",AGRO BRASIL HD
+https://server.flixtv.com.br:443/agrobrasiltv/agrobrasiltv/chunklist_w546533828.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AGROBRASIL "  group-title="Unsorted",AGROBRASIL 
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Unsorted",AMC
+http://45.58.126.146:14296
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Unsorted",AMC
+http://186.237.99.202:8000/play/AMC/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AMC HD"  group-title="Unsorted",AMC HD
+http://45.58.126.146:14296/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AMC HD"  group-title="Unsorted",AMC HD
+http://45.58.126.146:14296/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIMAL PLANET"  group-title="Unsorted",ANIMAL PLANET
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/37128.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIMAL PLANET"  group-title="Unsorted",ANIMAL PLANET
+http://199.127.60.83:16192/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIMAL PLANET"  group-title="Unsorted",ANIMAL PLANET
+https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIMAL PLANET"  group-title="Unsorted",ANIMAL PLANET
+http://186.237.99.202:8000/play/AnimalPlanet/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIMAL PLANET HD"  group-title="Unsorted",ANIMAL PLANET HD
+http://45.58.126.146:14249/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIMAL PLANET HD"  group-title="Unsorted",ANIMAL PLANET HD
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/36992.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIMAL PLANET HD"  group-title="Unsorted",ANIMAL PLANET HD
+http://45.58.126.146:14249/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIMAL PLANET HD"  group-title="Unsorted",ANIMAL PLANET HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Unsorted",AXN
+http://186.237.99.202:8000/play/AXN/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="Unsorted",AXN HD
+http://45.58.126.146:14299
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="Unsorted",AXN HD
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/36991.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN HD *"  group-title="Unsorted",AXN HD *
+http://45.58.126.146:14299/axn
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN HD+"  group-title="Unsorted",AXN HD+
+http://xcui.vitvabc.xyz:8880/287994003794/287994003794/16695
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BAND"  group-title="Unsorted",BAND
+http://200.4.96.47:8000/play/a00x/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BAND"  group-title="Unsorted",BAND
+http://168.205.87.198:8555/live/1097/123456/19.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BAND HD"  group-title="Unsorted",BAND HD
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/36990.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BAND NEWS HD"  group-title="Unsorted",BAND NEWS HD
+http://45.58.126.146:14231
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BANDNEWS HD [ALT]"  group-title="Unsorted",BANDNEWS HD [ALT]
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/50654.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBB 23 QUARTO FUNDO DO MAR HD"  group-title="Unsorted",BBB 23 QUARTO FUNDO DO MAR HD
+http://45.166.68.242:8080/live/anc.julianamesquita/102030/68.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL FUTURA"  group-title="Unsorted",CANAL FUTURA
+http://168.205.87.198:8555/live/1437/123456/67.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL RURAL (1080P)"  group-title="Unsorted",CANAL RURAL (1080P)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CARTOON NETWORK"  group-title="Unsorted",CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-480p.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CARTOON NETWORK HD"  group-title="Unsorted",CARTOON NETWORK HD
+http://170.82.200.38:8080/cartoon/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CHAVES 24H"  group-title="Unsorted",CHAVES 24H
+http://168.205.87.198:8555/live/1431/123456/159.m3u8
+
+#EXTINF:-1, tvg-id="IDDOCANALDETELEVISAO" tvg-logo="Logo N/A" tvg-name="CHESPIRITO TVG-ID="IDDOCANALDETELEVISAO""  group-title="Unsorted",CHESPIRITO TVG-ID="IDDOCANALDETELEVISAO"
+http://168.205.87.198:8555/live/1431/123456/159.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CHESPIRITO TVG-ID=IDDOCANALDETELEVISAO"  group-title="Unsorted",CHESPIRITO TVG-ID=IDDOCANALDETELEVISAO
+http://168.205.87.198:8555/live/1431/123456/159.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINE BRASIL 4K"  group-title="Unsorted",CINE BRASIL 4K
+http://168.205.87.198:8555/live/1052/123456/145.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINE CANAL"  group-title="Unsorted",CINE CANAL
+http://45.58.126.146:14326
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX"  group-title="Unsorted",CINEMAX
+http://186.237.99.202:8000/play/Cinemax/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX HD"  group-title="Unsorted",CINEMAX HD
+http://45.58.126.146:14305/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMAX HD [ALT]"  group-title="Unsorted",CINEMAX HD [ALT]
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/50669.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNN BRASIL "  group-title="Unsorted",CNN BRASIL 
+https://ythls.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COMBATE"  group-title="Unsorted",COMBATE
+http://186.237.99.202:8000/play/Combate/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISC THEATER"  group-title="Unsorted",DISC THEATER
+http://45.58.126.146:14264
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISC THEATER"  group-title="Unsorted",DISC THEATER
+http://45.58.126.146:14264
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY CHANNEL"  group-title="Unsorted",DISCOVERY CHANNEL
+http://45.58.126.146:14252/http://contentzord.gelderland.ga:2095/live/discoverychannel/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY CHANNEL"  group-title="Unsorted",DISCOVERY CHANNEL
+http://168.205.87.198:8555/live/leila/123456/33.ts?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY CHANNEL"  group-title="Unsorted",DISCOVERY CHANNEL
+http://186.237.99.202:8000/play/DiscoveryChannel/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY CHANNEL HD"  group-title="Unsorted",DISCOVERY CHANNEL HD
+http://45.58.126.146:14252/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY H&H HD"  group-title="Unsorted",DISCOVERY H&H HD
+http://45.58.126.146:14255/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY HOME & HEALTH"  group-title="Unsorted",DISCOVERY HOME & HEALTH
+http://186.237.99.202:8000/play/DiscHomeHealth/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY ID"  group-title="Unsorted",DISCOVERY ID
+http://45.58.126.146:14258/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY KIDS"  group-title="Unsorted",DISCOVERY KIDS
+http://45.58.126.146:14203
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY KIDS FHD¹"  group-title="Unsorted",DISCOVERY KIDS FHD¹
+http://168.205.87.198:8555/live/1052/123456/143.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY SCIENCE"  group-title="Unsorted",DISCOVERY SCIENCE
+http://186.237.99.202:8000/play/DiscoveryScience/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY SCIENCE"  group-title="Unsorted",DISCOVERY SCIENCE
+https://i.imgur.com/BkSgO2L.jpg
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY SCIENCE HD [ALT]"  group-title="Unsorted",DISCOVERY SCIENCE HD [ALT]
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/50708.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY THEATER FHD"  group-title="Unsorted",DISCOVERY THEATER FHD
+http://45.58.126.146:14264/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY THEATER HD"  group-title="Unsorted",DISCOVERY THEATER HD
+http://turoisherego.xyz:2095/Tourobox1-lives9556077276/7784489147/322
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY TLC"  group-title="Unsorted",DISCOVERY TLC
+http://168.205.87.198:8555/live/antony/1234/40.ts?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY TURBO"  group-title="Unsorted",DISCOVERY TURBO
+http://186.237.99.202:8000/play/DiscoveryTurbo/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY TURBO HD"  group-title="Unsorted",DISCOVERY TURBO HD
+http://45.58.126.146:14267/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY TURBO HD"  group-title="Unsorted",DISCOVERY TURBO HD
+http://189.85.164.198:2086/live/DISCTUR/720p.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISCOVERY WORD"  group-title="Unsorted",DISCOVERY WORD
+http://45.58.126.146:14273
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DOCUMENTARIOS"  group-title="Unsorted",DOCUMENTARIOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EUROCHANNEL"  group-title="Unsorted",EUROCHANNEL
+http://186.237.99.202:8000/play/Eurochannel/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FILM&ARTS"  group-title="Unsorted",FILM&ARTS
+http://186.237.99.202:8000/play/FilmeArts/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FUTURA"  group-title="Unsorted",FUTURA
+http://168.205.87.198:8555/live/1097/123456/67.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FX HD"  group-title="Unsorted",FX HD
+http://45.58.126.146:14311/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO"  group-title="Unsorted",GLOBO
+http://45.58.126.146:14046
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO"  group-title="Unsorted",GLOBO
+http://15.235.55.115:14107/globo
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO"  group-title="Unsorted",GLOBO
+http://15.204.174.61:8000/play/a00b/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO"  group-title="Unsorted",GLOBO
+http://45.58.126.146:14066
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO"  group-title="Unsorted",GLOBO
+http://45.58.126.146:14070
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO"  group-title="Unsorted",GLOBO
+http://xcui.vitvabc.xyz:8880/287994003794/287994003794/16702
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO"  group-title="Unsorted",GLOBO
+http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1679798964_4d4afd922002fb69414191e7c579331fccfe1469
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO FHD"  group-title="Unsorted",GLOBO FHD
+http://168.205.87.198:8555/live/1431/123456/70.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO FHD"  group-title="Unsorted",GLOBO FHD
+http://168.205.87.198:8555/live/1431/123456/70.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO MG HD"  group-title="Unsorted",GLOBO MG HD
+https://ipzeruela.shop/Globo-Paraiba2015/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO MINAS"  group-title="Unsorted",GLOBO MINAS
+http://168.205.87.198:8555/live/1097/123456/70.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO NEWS FHD"  group-title="Unsorted",GLOBO NEWS FHD
+http://45.58.126.146:14238/globonews
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO NEWS HD"  group-title="Unsorted",GLOBO NEWS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31519
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO NEWS SD"  group-title="Unsorted",GLOBO NEWS SD
+http://soberon.us:25461/m0nk/n3w/4150
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO RIO TV MIRANTE HD"  group-title="Unsorted",GLOBO RIO TV MIRANTE HD
+https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0-768x768.png
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO RJ HD"  group-title="Unsorted",GLOBO RJ HD
+https://ipzeruela.shop/Globo-RioGrandedoSul/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO RJ HD"  group-title="Unsorted",GLOBO RJ HD
+https://ipzeruela.shop/Globo-RJ/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO RJ HD"  group-title="Unsorted",GLOBO RJ HD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/304097
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO SÃO PAULO"  group-title="Unsorted",GLOBO SÃO PAULO
+http://168.205.87.198:8555/live/1052/123456/70.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO SE HD"  group-title="Unsorted",GLOBO SE HD
+https://ipzeruela.shop/Globo-sergipe2015/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO SP  FHD"  group-title="Unsorted",GLOBO SP  FHD
+https://linear-278.frequency.stream/278/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBO⁵"  group-title="Unsorted",GLOBO⁵
+http://177.38.211.15:8000/play/a00r/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBONEWS HD"  group-title="Unsorted",GLOBONEWS HD
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/36917.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOOB HD"  group-title="Unsorted",GLOOB HD
+http://45.58.126.146:14209/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GNT HD"  group-title="Unsorted",GNT HD
+http://15.235.10.31:14363
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO"  group-title="Unsorted",HBO
+http://195.181.163.144:14606/HBO2
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO"  group-title="Unsorted",HBO
+http://15.235.10.31:14379
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO"  group-title="Unsorted",HBO
+http://195.181.163.144:14606/HBO2
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO"  group-title="Unsorted",HBO
+http://15.235.10.31:14379
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO"  group-title="Unsorted",HBO
+http://195.181.163.144:14606/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Unsorted",HBO 2
+http://fadder.eletrinho.shop:2095/live/hbo2/chunks.m3u8?token=1679803677_0a0c471c6f557e95d73314b410eaf92cbde84490
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Unsorted",HBO 2
+http://15.235.10.31:14381
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 2 HD"  group-title="Unsorted",HBO 2 HD
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/36966.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO HD"  group-title="Unsorted",HBO HD
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/36964.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO PLUS"  group-title="Unsorted",HBO PLUS
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/37084.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO SIGNATURE HD"  group-title="Unsorted",HBO SIGNATURE HD
+http://15.235.10.31:14401
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HD | TELECINE PREMIUN"  group-title="Unsorted",HD | TELECINE PREMIUN
+http://soberon.us:25461/m0nk/n3w/4135
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HISTORY"  group-title="Unsorted",HISTORY
+http://45.58.126.146:14281
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JOVEM PAN"  group-title="Unsorted",JOVEM PAN
+http://168.205.87.198:8555/live/michele/123456/161.ts?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JOVEM PAN"  group-title="Unsorted",JOVEM PAN
+http://168.205.87.198:8555/live/michele/123456/161.ts?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JOVEM PAN NEWS "  group-title="Unsorted",JOVEM PAN NEWS 
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MEGAPIX"  group-title="Unsorted",MEGAPIX
+http://186.237.99.202:8000/play/Megapix/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MEGAPIX FHD"  group-title="Unsorted",MEGAPIX FHD
+http://45.58.126.146:14317/megapix
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MEGAPIX HD"  group-title="Unsorted",MEGAPIX HD
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/36958.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MEGAPIX HD"  group-title="Unsorted",MEGAPIX HD
+http://51.83.238.223:16823/megapix
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV HD"  group-title="Unsorted",MTV HD
+http://51.222.44.30:14921/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MULTISHOW HD"  group-title="Unsorted",MULTISHOW HD
+http://23.237.10.66:16124/
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NATGEO"  group-title="Unsorted",NATGEO
+http://45.58.126.146:14287
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NATGEO  | DUAL ÁUDIO"  group-title="Unsorted",NATGEO  | DUAL ÁUDIO
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/63227.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NATIONAL GEOGRAPHIC HD"  group-title="Unsorted",NATIONAL GEOGRAPHIC HD
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/36956.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PARAMOUNT FHD"  group-title="Unsorted",PARAMOUNT FHD
+http://45.58.126.146:14320/PARAMOUNT
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="POLISHOP"  group-title="Unsorted",POLISHOP
+http://168.205.87.198:8555/live/1437/123456/153.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="POLISHOP"  group-title="Unsorted",POLISHOP
+http://168.205.87.198:8555/live/1097/123456/153.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RECORD NEWS"  group-title="Unsorted",RECORD NEWS
+http://168.205.87.198:8555/live/1437/123456/97.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RECORD NEWS"  group-title="Unsorted",RECORD NEWS
+http://168.205.87.198:8555/live/1097/123456/97.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RECORD NEWS"  group-title="Unsorted",RECORD NEWS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RECORD NEWS HD"  group-title="Unsorted",RECORD NEWS HD
+http://cdn.connectbr.com.br:80/Record-News-HD/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RECORD³"  group-title="Unsorted",RECORD³
+http://45.235.0.78:8000/play/a00e
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="REDE TV HD"  group-title="Unsorted",REDE TV HD
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="REDE VIDA HD"  group-title="Unsorted",REDE VIDA HD
+http://168.205.87.198:8555/live/5803/123456/103.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SBT"  group-title="Unsorted",SBT
+http://200.4.96.47:8000/play/a014/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SBT"  group-title="Unsorted",SBT
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SBT HD"  group-title="Unsorted",SBT HD
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/36945.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SBT²"  group-title="Unsorted",SBT²
+http://186.237.99.202:8000/play/SBTSP/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SEM NOME"  group-title="Unsorted",SEM NOME
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SHOPTIME"  group-title="Unsorted",SHOPTIME
+http://168.205.87.198:8555/live/1437/123456/164.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY"  group-title="Unsorted",SKY
+http://micc.mywire.org/ricettaxcantenna/Loghi/Sky%20Cinema%20Family%20+1%20HD.png
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY CHANNEL HD"  group-title="Unsorted",SONY CHANNEL HD
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/36987.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELECINE"  group-title="Unsorted",TELECINE
+http://51.83.238.223:16763
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELECINE ACTION"  group-title="Unsorted",TELECINE ACTION
+http://186.237.99.202:8000/play/TCAction/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELECINE ACTION"  group-title="Unsorted",TELECINE ACTION
+http://51.83.238.223:16703/telecineaction
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELECINE FUN"  group-title="Unsorted",TELECINE FUN
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/304191
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELECINE FUN"  group-title="Unsorted",TELECINE FUN
+http://186.237.99.202:8000/play/TCFun/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELECINE PIPOCA"  group-title="Unsorted",TELECINE PIPOCA
+http://186.237.99.202:8000/play/TCPipoca/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELECINE PREMIUM"  group-title="Unsorted",TELECINE PREMIUM
+http://186.237.99.202:8000/play/TCPremium/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELECINE PREMIUM HD"  group-title="Unsorted",TELECINE PREMIUM HD
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/36936.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELECINE TOUCH"  group-title="Unsorted",TELECINE TOUCH
+http://sv1.casaplay5g.win:8080/andre123/andre123/4026
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELECINE TOUCH"  group-title="Unsorted",TELECINE TOUCH
+http://186.237.99.202:8000/play/TCTouch/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Title N/A"  group-title="Unsorted",Title N/A
+http://fadder.eletrinho.shop:2095/live/telecinepipoca/chunks.m3u8?token=1679806320_45373ee23f3c486f458a840f1b94080a4fc24ec8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT HD"  group-title="Unsorted",TNT HD
+http://tv.minhalista.me/live/juliodefreitas1/ostywszuvuc/36934.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV  TNT SÉRIES"  group-title="Unsorted",TV  TNT SÉRIES
+http://fadder.eletrinho.shop:2095/live/tntseries/chunks.m3u8?token=1679806320_30f0f45d9fc4ecb434ae359b626b7d735a0afcd3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV ANIMAL PLANET"  group-title="Unsorted",TV ANIMAL PLANET
+http://fadder.eletrinho.shop:2095/live/animalplanet/chunks.m3u8?token=1679805183_e77d211d19477d240d37417ee884fd79b6da6367
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV APARECIDA"  group-title="Unsorted",TV APARECIDA
+http://186.237.99.202:8000/play/TVAparecida/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV CULTURA"  group-title="Unsorted",TV CULTURA
+http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV DISCOVERY CHANNEL"  group-title="Unsorted",TV DISCOVERY CHANNEL
+http://fadder.eletrinho.shop:2095/live/discoverychannel/chunks.m3u8?token=1679952604_1abc67d3e15b9fa86d9eb6dd9c983395c985ebaa
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV DISCOVERY CHANNEL"  group-title="Unsorted",TV DISCOVERY CHANNEL
+http://fadder.eletrinho.shop:2095/live/discoverychannel/chunks.m3u8?token=1679803677_117b8bbabff78371814f25ac11d73834af31ef1e
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV FOX"  group-title="Unsorted",TV FOX
+http://fadder.eletrinho.shop:2095/live/fx/chunks.m3u8?token=1679803677_e10f493b519453ac92326e267e6043854b2e55ee
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV GAZETA"  group-title="Unsorted",TV GAZETA
+http://168.205.87.198:8555/live/1437/123456/69.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV GLOBO"  group-title="Unsorted",TV GLOBO
+http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1679952604_660f930baf24bfc0f0b76474fba912af90c46935
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV GLOBO MINAS"  group-title="Unsorted",TV GLOBO MINAS
+http://168.205.87.198:8555/live/1437/123456/70.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV MEGA PIX"  group-title="Unsorted",TV MEGA PIX
+http://fadder.eletrinho.shop:2095/live/megapix/chunks.m3u8?token=1679806320_76fa343406781559a2307d13e94887dcf54f4ec2
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV NATGEOWILD"  group-title="Unsorted",TV NATGEOWILD
+http://fadder.eletrinho.shop:2095/live/natgeowild/chunks.m3u8?token=1679805183_144ab211c568e474e26fd1e54ec74af688cfd48d
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV PAI ETERNO"  group-title="Unsorted",TV PAI ETERNO
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV PAI ETERNO"  group-title="Unsorted",TV PAI ETERNO
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV PAI ETERNO"  group-title="Unsorted",TV PAI ETERNO
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV TELECINE CTION"  group-title="Unsorted",TV TELECINE CTION
+http://fadder.eletrinho.shop:2095/live/telecineaction/chunks.m3u8?token=1679952604_f87b6964b3849c3ca5d5cf6090a85e3c7d700dda
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV TELECINE PIPOCA"  group-title="Unsorted",TV TELECINE PIPOCA
+http://fadder.eletrinho.shop:2095/live/telecinepipoca/chunks.m3u8?token=1679952604_577a93b7dc556ebc55ff7a2db2546907bc78ee3c
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV TELECINE PREMIUM"  group-title="Unsorted",TV TELECINE PREMIUM
+http://fadder.eletrinho.shop:2095/live/telecinepremium/chunks.m3u8?token=1679806320_95ae3620842ec02fe0d3aa1c7ea666e93d52961c
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV TELECINE PREMIUM"  group-title="Unsorted",TV TELECINE PREMIUM
+http://fadder.eletrinho.shop:2095/live/telecinepremium/chunks.m3u8?token=1679952604_8d1ff2a866ffc0018e51d4721ec4e3ff1f93cef6
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV TNT"  group-title="Unsorted",TV TNT
+http://fadder.eletrinho.shop:2095/live/tnt/chunks.m3u8?token=1679800422_f8feac21f9078f5f7a4defec247832599a584b99
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV UNIVERSAL CHANNEL"  group-title="Unsorted",TV UNIVERSAL CHANNEL
+http://fadder.eletrinho.shop:2095/live/universalchannel/chunks.m3u8?token=1679806320_d35f13d27000dcfa14e0097b0a87bb19f645755a
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV WAGNER CHANNEL"  group-title="Unsorted",TV WAGNER CHANNEL
+http://fadder.eletrinho.shop:2095/live/warnerchannel/chunks.m3u8?token=1679806320_2cbad979787c8f15b8fb5efe50d198ad4f78b51a
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WARNER"  group-title="Unsorted",WARNER
+http://45.58.126.146:14351
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WARNER HD"  group-title="Unsorted",WARNER HD
+http://45.58.126.146:14351/
+
